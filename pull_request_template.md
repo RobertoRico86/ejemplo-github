@@ -5,4 +5,4 @@
 - [ ] Configuración de server
 
 # ¿Como puedo probar los cambios ?
-En que url y forma puedo ver update
+En que url y forma puedo ver update cambio protegiendo rama
